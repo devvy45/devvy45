@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ayush Goel
 
-<!--
-**devvy45/devvy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Internet-native. Generalist. Builder.
 
-Here are some ideas to get you started:
+Started making money online at 17. Lost most of it trading crypto, stayed for the technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in startups, AI, venture capital, and the people building the future.
+
+### Building
+
+- GetaJob — Find jobs where your work matters.
+- Clarity — Find the right place for your money.
+- AgentCred — The reputation layer for AI agents.
+
+### Exploring
+
+- AI workflows & automation
+- Early-stage startups
+- Venture capital
+- Internet businesses
+
+### Links
+
+Website → https://ayushhgoel.com  
+LinkedIn → https://linkedin.com/in/ayushhgoel7  
+X → https://x.com/ayushhgoel7  
+Email → ayushgoyal1124@gmail.com
