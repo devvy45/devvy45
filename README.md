@@ -6,7 +6,7 @@ Started making money online at 17. Lost most of it trading crypto, stayed for th
 
 Interested in startups, AI, venture capital, and the people building the future.
 
-### Building
+### Projects
 
 - GetaJob — Find jobs where your work matters.
 - Clarity — Find the right place for your money.
